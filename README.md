@@ -8,6 +8,7 @@ I build C# and PowerShell automation tools to eliminate repetitive manual work i
 
 ### 🛠️ Free Open-Source Resources
 * **[Eplan-Scripting-GUI-Examples](https://github.com/justin-walzengineering/Eplan-Scripting-GUI-Examples)** — Reusable Eplan P8 (2025/2026) C# examples including custom dialogs, data grids, progress windows, and ribbon tools.
+* **[Elgato-Stream-Deck-Public](https://github.com/justin-walzengineering/Elgato-Stream-Deck-Public)** — Custom Elgato Stream Deck profiles, icons, and one-touch shortcut tools designed to speed up Eplan Electric P8 workflows.
 
 ---
 
